@@ -12,6 +12,7 @@ Matplotlib
 Statsmodels (ARIMA)
 
 📊 Project Workflow
+
 Data Loading and Cleaning
 Date Conversion and Indexing
 Time-Series Visualization
@@ -20,7 +21,9 @@ ARIMA Model Building
 Sales Forecasting
 
 Visualization of Results
+
 📈 Results
+
 Identified trends and seasonal patterns in sales
 Successfully forecasted future sales for next 12 months
 
